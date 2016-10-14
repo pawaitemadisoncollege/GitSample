@@ -5,12 +5,12 @@
 ### Introduction
 Jen's first cut at the intro. Jacob's addition to the intro.
 
-Jacob's adds more.
+Jacob adds more.
 
 ### Body
 
 Jen's initial facts....
-Jake fixes some facts from Jen...
+Jacob fixes some facts from Jen...
 
 ### Conclusion
 
