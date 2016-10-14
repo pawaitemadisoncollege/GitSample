@@ -1,14 +1,14 @@
-Group Paper
+## Group Paper
 
-Introduction
-  Jen's first cut at the intro...
+### Introduction
+Jen's first cut at the intro...
 
-Body
+### Body
 
-Conclusion
+### Conclusion
 
-References
+### References
 
-Appendix
+### Appendix
 
 
